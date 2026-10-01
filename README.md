@@ -28,5 +28,5 @@ A real-time, touchless mouse controller built with Computer Vision. This project
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/AI-Virtual-Mouse.git](https://github.com/yourusername/AI-Virtual-Mouse.git)
-   cd AI-Virtual-Mouse
+   git clone [https://github.com/Reda-Mota/Click_Scrolling_by_Hand.git](https://github.com/Reda-Mota/Click_Scrolling_by_Hand.git)
+   cd Click_Scrolling_by_Hand
